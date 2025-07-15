@@ -210,7 +210,6 @@
 - [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
 - [EmilHvitfeldt/feature-engineering-az](https://github.com/EmilHvitfeldt/feature-engineering-az) - Source for book "Feature Engineering A-Z"
 - [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) - 📺IPTV 神源收集站
-- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [martin-martin/calculator](https://github.com/martin-martin/calculator) - 
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [kevinLiJ/NBARealTimeScore](https://github.com/kevinLiJ/NBARealTimeScore) - vscode extension : get NBA real-time score in vscode；vscode插件：nba比赛文字直播以及实时比分
@@ -787,6 +786,7 @@
 - [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for machine learning from time series
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [ra1nty/DXcam](https://github.com/ra1nty/DXcam) - A Python high-performance screen capture library for Windows using Desktop Duplication API
+- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [TCtobychen/ListFold](https://github.com/TCtobychen/ListFold) - 
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
 - [ShaoQiBNU/RankNet](https://github.com/ShaoQiBNU/RankNet) - RankNet算法介绍
