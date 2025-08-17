@@ -1420,6 +1420,9 @@
 
 ## TypeScript 
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
+- [mendableai/open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
