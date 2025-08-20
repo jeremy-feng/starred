@@ -1129,7 +1129,7 @@
 - [albermax/innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions!
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox.
 - [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1421,6 +1421,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
