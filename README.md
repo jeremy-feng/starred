@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
 - [bottler/iisignature](https://github.com/bottler/iisignature) - Iterated integral signature calculations
 - [Quantactix/PTree](https://github.com/Quantactix/PTree) - R package for Panel Tree method and replication file for the paper "Growing the Efficient Frontier on Panel Trees", forthcoming in the Journal of Financial Economics.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -403,6 +404,7 @@
 
 ## Jupyter Notebook 
 
+- [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) - 🪐 ✨ Model Context Protocol (MCP) Server for Jupyter.
@@ -702,7 +704,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
 - [OB0NE/PillOCR](https://github.com/OB0NE/PillOCR) - 一个基于大模型api的OCR工具。
-- [AgentEra/Agently](https://github.com/AgentEra/Agently) - [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Agently Workflow to 
+- [AgentEra/Agently](https://github.com/AgentEra/Agently) - [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *T
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) - AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
@@ -711,7 +713,7 @@
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) - FinData enables  your AI agents retrieve financial data from different providers like Tushare, Wind, and DataYes.
 - [mdoumbouya/codeocr](https://github.com/mdoumbouya/codeocr) - 
 - [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
-- [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - Dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI, web)
+- [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI, web)
 - [kjkoeller/glyphx](https://github.com/kjkoeller/glyphx) - A next-gen Python plotting library with SVG-first rendering, interactivity, themes, and clean defaults — better than matplotlib.pyplot
 - [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -1430,6 +1432,7 @@
 
 ## TypeScript 
 
+- [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [ZHO-ZHO-ZHO/BananaFlow-ZHO](https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO) - 香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [ZHO-ZHO-ZHO/BananaPod](https://github.com/ZHO-ZHO-ZHO/BananaPod) - 香蕉铺子：Nano Banana 创意板，无需提示词，内置我的创意玩法大全，轻松构建创意体系
