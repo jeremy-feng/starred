@@ -643,7 +643,7 @@
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [itcharge/Mac-Tips](https://github.com/itcharge/Mac-Tips) - macOS 系统的使用技巧介绍、常用软件推荐、效率工具推荐。
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-- [FefferyDash/awesome-feffery-dash](https://github.com/FefferyDash/awesome-feffery-dash) - 😎The Way to Efficient Application Development with Python+Dash. Python+Dash高效应用开发之道
+- [WebFlowPy/awesome-feffery-dash](https://github.com/WebFlowPy/awesome-feffery-dash) - 😎The Way to Efficient Application Development with Python+Dash. Python+Dash高效应用开发之道
 - [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：力扣刷题指南
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [mlu-explain/mlu-explain.github.io](https://github.com/mlu-explain/mlu-explain.github.io) - 
@@ -1438,6 +1438,7 @@
 
 ## TypeScript 
 
+- [joeseesun/drawnix-seedream](https://github.com/joeseesun/drawnix-seedream) - Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities
 - [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) - MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see.
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [ZHO-ZHO-ZHO/BananaFlow-ZHO](https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO) - 香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化
