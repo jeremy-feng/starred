@@ -189,6 +189,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
@@ -326,7 +327,7 @@
 - [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [poloclub/gam-coach](https://github.com/poloclub/gam-coach) - Personal coach to help you obtain desired AI decisions!
 - [interpretml/gam-changer](https://github.com/interpretml/gam-changer) - Editing machine learning models to reflect human knowledge and values
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
@@ -406,6 +407,7 @@
 
 ## Jupyter Notebook 
 
+- [bbruceyuan/AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code) - LLM大模型（重点）以及搜广推等 AI 算法中手写的面试题，（非 LeetCode），比如 Self-Attention, AUC等，一般比 LeetCode 更考察一个人的综合能力，又更贴近业务和基础知识一点
 - [hyperbrowserai/examples](https://github.com/hyperbrowserai/examples) - Examples for using Hyperbrowser
 - [mahmoodlab/KRONOS](https://github.com/mahmoodlab/KRONOS) - Foundation Model for Multiplex Spatial Proteomic Images
 - [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
@@ -679,6 +681,7 @@
 
 ## Python 
 
+- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
 - [deel-ai/puncc](https://github.com/deel-ai/puncc) - 👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.
 - [ml-stat-Sustech/TorchCP](https://github.com/ml-stat-Sustech/TorchCP) - A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
@@ -927,7 +930,6 @@
 - [yichen0831/opencc-python](https://github.com/yichen0831/opencc-python) - OpenCC made with Python
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [xu-song/bert-as-language-model](https://github.com/xu-song/bert-as-language-model) - BERT as language model, fork from https://github.com/google-research/bert
 - [alipay/PainlessInferenceAcceleration](https://github.com/alipay/PainlessInferenceAcceleration) - Accelerate inference without tears
@@ -1578,7 +1580,7 @@
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
+- [neovateai/petercat](https://github.com/neovateai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 - [seadfeng/font-generator](https://github.com/seadfeng/font-generator) - 
