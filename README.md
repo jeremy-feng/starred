@@ -120,7 +120,7 @@
 
 - [satori1995/cpython-internal](https://github.com/satori1995/cpython-internal) - 深度解析 CPython3.8 源码实现
 - [OI-wiki/feedback-sys](https://github.com/OI-wiki/feedback-sys) - OI Wiki 划词评论反馈系统
-- [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly Weekly records my non-boring life. 潮流周刊记录我的不枯燥生活
+- [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly records my non-boring life. 潮流周刊记录我的不枯燥生活
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [justcaliturner/simple-code-editor](https://github.com/justcaliturner/simple-code-editor) - Simple code editor for Vue.js
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -229,7 +229,6 @@
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
-- [gvanrossum/gvanrossum.github.io](https://github.com/gvanrossum/gvanrossum.github.io) - BDFL website
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [QianJianTech/LaTeXLive](https://github.com/QianJianTech/LaTeXLive) - LateX公式编辑器-妈叔出品
@@ -547,7 +546,7 @@
 - [ppresume/community](https://github.com/ppresume/community) - Discussions, feedbacks, roadmaps, community for PPResume.
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [npmstudy/indie-dev-with-ai](https://github.com/npmstudy/indie-dev-with-ai) - 独立开发者的最佳技术栈
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers
 
 ## Markdown 
@@ -685,6 +684,8 @@
 
 ## Python 
 
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -732,7 +733,7 @@
 - [mdoumbouya/codeocr](https://github.com/mdoumbouya/codeocr) - 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
-- [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI, web)
+- [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI + config files, web)
 - [kjkoeller/glyphx](https://github.com/kjkoeller/glyphx) - A next-gen Python plotting library with SVG-first rendering, interactivity, themes, and clean defaults — better than matplotlib.pyplot
 - [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
