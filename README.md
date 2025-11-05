@@ -1104,7 +1104,6 @@
 - [tiagoantao/python-performance](https://github.com/tiagoantao/python-performance) - Repository for the book Fast Python - published by Manning
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [andy-landy/traceback_with_variables](https://github.com/andy-landy/traceback_with_variables) - Adds variables to python traceback. Simple, lightweight, controllable. Customize formats and colors. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame
@@ -1706,10 +1705,11 @@
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 - [marp-team/marp-vue](https://github.com/marp-team/marp-vue) - [INACTIVE] Marp renderer component for Vue
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
