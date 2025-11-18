@@ -194,7 +194,6 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
@@ -745,6 +744,7 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
@@ -861,7 +861,7 @@
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
 - [ntegrals/hypergen](https://github.com/ntegrals/hypergen) - HyperGen - Optimized inference and fine-tuning framework for diffusion (image & video) models. Up to 3x faster & 80% less VRAM.
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -971,6 +971,7 @@
 - [yichen0831/opencc-python](https://github.com/yichen0831/opencc-python) - OpenCC made with Python
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [xu-song/bert-as-language-model](https://github.com/xu-song/bert-as-language-model) - BERT as language model, fork from https://github.com/google-research/bert
 - [alipay/PainlessInferenceAcceleration](https://github.com/alipay/PainlessInferenceAcceleration) - Accelerate inference without tears
@@ -1498,7 +1499,7 @@
 - [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) - MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see.
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - [ZHO-ZHO-ZHO/BananaFlow-ZHO](https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO) - 香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [ZHO-ZHO-ZHO/BananaPod](https://github.com/ZHO-ZHO-ZHO/BananaPod) - 香蕉铺子：Nano Banana 创意板，无需提示词，内置我的创意玩法大全，轻松构建创意体系
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
@@ -1546,7 +1547,6 @@
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
 - [ItusiAI/Open-Aiartools](https://github.com/ItusiAI/Open-Aiartools) - AI 图像编辑 Web 应用，使用 **FLUX.1 Kontext [pro]** 前沿模型提供强大的图像编辑功能，支持Stripe支付，注册登录，积分系统等，代码100%开源。
 - [CharlieLZ/flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template) - 生财有术特供，flux-kontext开源仓库，套壳模板
@@ -1575,7 +1575,7 @@
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [MinJieLiu/react-photo-view](https://github.com/MinJieLiu/react-photo-view) - An exquisite React photo preview component.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-- [RiverTwilight/kindle-ui](https://github.com/RiverTwilight/kindle-ui) - 🎞 Replicate the Amazon Kindle experience on web with React. | 一个用于在浏览器中构建 Kindle 系统的组件库
+- [rivertwilight/kindle-ui](https://github.com/rivertwilight/kindle-ui) - 🎞 Replicate the Amazon Kindle experience on web with React. | 一个用于在浏览器中构建 Kindle 系统的组件库
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
