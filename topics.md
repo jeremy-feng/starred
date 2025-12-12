@@ -97,6 +97,7 @@
 - [game](#game)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -277,7 +278,6 @@
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 - [AgentEra/Agently](https://github.com/AgentEra/Agently) - [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *T
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -328,12 +328,12 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [Yiling-J/tablepilot](https://github.com/Yiling-J/tablepilot) - AI-native platform for tabular data generation via CLI, WebUI or app.
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - AI-powered RSS reader, deployable to GitHub Pages or with Docker | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker
+- [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - 😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -356,7 +356,7 @@
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 - [dendrite-systems/dendrite-python-sdk](https://github.com/dendrite-systems/dendrite-python-sdk) - Tools to build web AI agents that can authenticate, interact with and extract data from any website.
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [guoriyue/AutoMouser](https://github.com/guoriyue/AutoMouser) - AutoMouser automatically generates browser automation code from your mouse movements, capturing every click, drag, and hover to streamline your workflow and build robust, repeatable tests.
 - [m0wer/rssfilter](https://github.com/m0wer/rssfilter) - Filter your current RSS feeds with AI customized recommendations.
@@ -445,7 +445,7 @@
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is the backend built for AI-assisted development. Connect InsForge with any agent. Add authentication, database, storage, functions, and AI integrations to your app in seconds.
 - [astack-tech/astack](https://github.com/astack-tech/astack) - 🤖 A composable framework for building AI applications.
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -739,6 +739,7 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) - Awesome curated collection of images and prompts generated by gemini-2.5-flash-image (aka Nano Banana) state-of-the-art image generation and editing model. Explore AI generated visuals created with Ge
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [guoriyue/AutoMouser](https://github.com/guoriyue/AutoMouser) - AutoMouser automatically generates browser automation code from your mouse movements, capturing every click, drag, and hover to streamline your workflow and build robust, repeatable tests.
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1255,7 +1256,7 @@
 
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
@@ -1534,6 +1535,26 @@
 ## gaming 
 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
+## generative-ai 
+
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## gis 
 
@@ -1845,7 +1866,7 @@
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly records my non-boring life. 潮流周刊记录我的不枯燥生活
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
@@ -2050,7 +2071,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
-- [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - AI-powered RSS reader, deployable to GitHub Pages or with Docker | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker
+- [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - 😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2602,7 +2623,7 @@
 
 ## open-source 
 
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Fast. Private. Local-first notes for macOS, Windows, and Linux.
 - [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -2843,7 +2864,6 @@
 - [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [Guts/mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin) - MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).
 - [OI-wiki/feedback-sys](https://github.com/OI-wiki/feedback-sys) - OI Wiki 划词评论反馈系统
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
@@ -2886,7 +2906,6 @@
 - [ManshiMath/ProjectCode](https://github.com/ManshiMath/ProjectCode) - 
 - [Shogun89/fancy_job](https://github.com/Shogun89/fancy_job) - Have you ever wanted a fancy job? This repo gets you a fancy job! /s
 - [sekai-soft/rss-lambda](https://github.com/sekai-soft/rss-lambda) - RSS-lambda transforms RSS feeds without RSS client lock-in
-- [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
 - [EZ-hwh/AutoScraper](https://github.com/EZ-hwh/AutoScraper) - Official implement of paper "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation" [EMNLP 24']
 - [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - A python wrapper for Tavily search API
 - [SJTU-DMTai/qlib](https://github.com/SJTU-DMTai/qlib) - This forked repo additionally includes our DoubleAdapt (KDD'23) and MASTER (AAAI'24) for re-experiment.
@@ -3042,8 +3061,6 @@
 - [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) - Official implementation code of the paper &lt;AnyText: Multilingual Visual Text Generation And Editing&gt;
-- [mintlify/vscode-link](https://github.com/mintlify/vscode-link) - 🔗 Link documentation to code
-- [mintlify/docstring.ai](https://github.com/mintlify/docstring.ai) - Homepage for docstring.ai
 - [znstrider/plottable](https://github.com/znstrider/plottable) - most pretty & lovely tables with matplotlib
 - [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -3149,7 +3166,6 @@
 - [rnd195/my-marp-themes](https://github.com/rnd195/my-marp-themes) - Collection of my CSS themes for Marp Markdown presentations
 - [kaisugi/marp-theme-academic](https://github.com/kaisugi/marp-theme-academic) - Academic Presentation Slides with Marp
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [fralau/mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [SirAlex900/FeatureProgramming](https://github.com/SirAlex900/FeatureProgramming) - 
 - [chmx0929/Machine-Learning](https://github.com/chmx0929/Machine-Learning) - 
@@ -3392,7 +3408,7 @@
 
 ## privacy 
 
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Fast. Private. Local-first notes for macOS, Windows, and Linux.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -3467,7 +3483,7 @@
 - [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
 - [AgentEra/Agently](https://github.com/AgentEra/Agently) - [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *T
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -4137,7 +4153,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - AI-powered RSS reader, deployable to GitHub Pages or with Docker | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker
+- [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - 😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
@@ -4356,7 +4372,7 @@
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
 ## text-to-speech 
@@ -4409,6 +4425,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [rivertwilight/kindle-ui](https://github.com/rivertwilight/kindle-ui) - 🎞 Replicate the Amazon Kindle experience on web with React. | 一个用于在浏览器中构建 Kindle 系统的组件库
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track h
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
