@@ -536,7 +536,7 @@
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
@@ -596,7 +596,7 @@
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 - [Yiling-J/tablepilot](https://github.com/Yiling-J/tablepilot) - AI-native platform for tabular data generation via CLI, WebUI or app.
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -729,7 +729,7 @@
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).
 - [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
@@ -796,7 +796,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
@@ -815,7 +815,7 @@
 - [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
 - [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
 ## chrome 
@@ -1695,7 +1695,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
 - [rahulbordoloi/Directory-Tree](https://github.com/rahulbordoloi/Directory-Tree) - Python Utility Package that displays out the Tree Structure of a Particular Directory.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -1982,7 +1982,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## laravel 
 
@@ -2544,7 +2544,7 @@
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -4156,7 +4156,7 @@
 - [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - 😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
