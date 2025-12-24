@@ -688,6 +688,8 @@
 
 ## Python 
 
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [FinStep-AI/ContestTrade](https://github.com/FinStep-AI/ContestTrade) - A Multi-Agent Trading System Based on Internal Contest Mechanism
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - [Polymarket/py-clob-client](https://github.com/Polymarket/py-clob-client) - Python client for the Polymarket CLOB
 - [IBM/Agentics](https://github.com/IBM/Agentics) - Agentics is a Python framework that provides structured, scalable, and semantically grounded agentic computation.
@@ -763,7 +765,7 @@
 - [OB0NE/PillOCR](https://github.com/OB0NE/PillOCR) - 一个基于大模型api的OCR工具。
 - [AgentEra/Agently](https://github.com/AgentEra/Agently) - [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *T
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
 - [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) - AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -1500,7 +1502,7 @@
 
 - [Peiiii/gitary](https://github.com/Peiiii/gitary) - Notion-like editing + Excalidraw & Draw.io drawing for your Git repositorie
 - [davialabs/davia](https://github.com/davialabs/davia) - Interactive, editable docs designed for coding agents
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is the backend built for AI-assisted development. Connect InsForge with any agent. Add authentication, database, storage, functions, and AI integrations to your app in seconds.
 - [htmldocs-js/htmldocs](https://github.com/htmldocs-js/htmldocs) - The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
