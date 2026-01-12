@@ -3252,7 +3252,7 @@
 - [chmx0929/Machine-Learning](https://github.com/chmx0929/Machine-Learning) - 
 - [maxlamberti/time-series-momentum](https://github.com/maxlamberti/time-series-momentum) - 🚂💨 Deep Momentum Networks for Time Series Strategies
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
-- [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
+- [ntegrals/SoftwareArchitect](https://github.com/ntegrals/SoftwareArchitect) - Path to a Software Architect
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [DUOMO/TransGPT](https://github.com/DUOMO/TransGPT) - 
 - [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
