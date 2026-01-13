@@ -576,6 +576,7 @@
 
 ## Others 
 
+- [waylandzhang/ai-quant-book](https://github.com/waylandzhang/ai-quant-book) - 《AI Quant Trading - From Zero to One》
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications.
@@ -774,7 +775,7 @@
 - [OB0NE/PillOCR](https://github.com/OB0NE/PillOCR) - 一个基于大模型api的OCR工具。
 - [AgentEra/Agently](https://github.com/AgentEra/Agently) - [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *T
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for Agent Engineering: framework, runtime and control plane.
 - [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) - AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
