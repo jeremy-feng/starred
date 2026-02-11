@@ -247,6 +247,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -254,6 +255,7 @@
 - [windows](#windows)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -1878,6 +1880,7 @@
 
 ## javascript 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -2646,6 +2649,7 @@
 
 ## nodejs 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
@@ -2670,6 +2674,7 @@
 
 ## npm 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [interpretml/interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
 
@@ -2850,7 +2855,7 @@
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [RndmVariableQ/AlphaAgent](https://github.com/RndmVariableQ/AlphaAgent) - AlphaAgent is an autonomous alpha mining framework.
-- [liuup/overleaf_vertical](https://github.com/liuup/overleaf_vertical) - 🧩Force Overleaf editor and preview to display top-bottom instead of side-by-side. 🧩让你的Overleaf编辑区和预览区纵向显示
+- [liuup/overleaf_vertical](https://github.com/liuup/overleaf_vertical) - 🧩Force Overleaf editor and preview to display top-bottom instead of side-by-side. 让你的Overleaf编辑区和预览区纵向显示
 - [mahtabsyed/21-Agentic-Patterns](https://github.com/mahtabsyed/21-Agentic-Patterns) - 
 - [AgentR1/Agent-R1](https://github.com/AgentR1/Agent-R1) - Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
 - [FoundationAgents/InteractComp](https://github.com/FoundationAgents/InteractComp) - 
@@ -2946,7 +2951,6 @@
 - [JiuRanYa/text-to-svg](https://github.com/JiuRanYa/text-to-svg) - Font to SVG Path Converter
 - [newdee/typeric](https://github.com/newdee/typeric) - Utility types for Python, such as `Result`, `Option`, etc
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [OB0NE/PillOCR](https://github.com/OB0NE/PillOCR) - 一个基于大模型api的OCR工具。
 - [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) - AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
 - [newdee/git-commit-helper](https://github.com/newdee/git-commit-helper) - Auto generate  && commit  git messages with AI
@@ -4067,6 +4071,7 @@
 
 ## react 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [wzc520pyfm/mail-studio](https://github.com/wzc520pyfm/mail-studio) - A modern email editor, easily create beautiful and responsive email.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
@@ -4542,6 +4547,7 @@
 
 ## typescript 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -4744,6 +4750,10 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 
+## web-development 
+
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The browser for web developers 🧑‍💻  Build your app right inside the browser while fully owning the codebase, take inspiration from the web and debug with AI
+
 ## web3 
 
 - [ivanzzeth/polymarket-go-gamma-client](https://github.com/ivanzzeth/polymarket-go-gamma-client) - Go SDK for the Polymarket Gamma RESTful API at https://gamma-api.polymarket.com
@@ -4801,6 +4811,10 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+## zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
