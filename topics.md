@@ -2970,7 +2970,7 @@
 - [JiuRanYa/text-to-svg](https://github.com/JiuRanYa/text-to-svg) - Font to SVG Path Converter
 - [newdee/typeric](https://github.com/newdee/typeric) - Utility types for Python, such as `Result`, `Option`, etc
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
-- [OB0NE/PillOCR](https://github.com/OB0NE/PillOCR) - 一个基于大模型api的OCR工具。
+- [T-duality/PillOCR](https://github.com/T-duality/PillOCR) - 一个基于大模型api的OCR工具。
 - [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) - AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
 - [newdee/git-commit-helper](https://github.com/newdee/git-commit-helper) - Auto generate  && commit  git messages with AI
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -3323,7 +3323,7 @@
 - [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [1nchaos/adata](https://github.com/1nchaos/adata) - 免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口，量化交易数据】【多数据源融合，动态设置代理，保障数据高可用性】
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
 - [luzhixing12345/zood](https://github.com/luzhixing12345/zood) - Markdown 静态网页文档生成器
 - [luzhixing12345/miuc](https://github.com/luzhixing12345/miuc) - Markdown Intelligence Url Complete
 - [RL-MLDM/poker](https://github.com/RL-MLDM/poker) - A lightweight server for evaluating Texas Hold'em agents.
@@ -3388,7 +3388,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [zhukunpenglinyutong/electron-tiny-img](https://github.com/zhukunpenglinyutong/electron-tiny-img) - 🍀 图片无损压缩平台 | Mac版本| （解决你压缩图片的所有问题）
-- [AICCOF/chatmoss-ui](https://github.com/AICCOF/chatmoss-ui) - ChatMoss 交互层开源代码
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [riti2409/DBMS_SQL-Notes](https://github.com/riti2409/DBMS_SQL-Notes) - DBMS_SQL Notes
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
