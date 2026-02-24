@@ -197,6 +197,7 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
@@ -610,7 +611,7 @@
 - [huhailinguist/ArguGPT](https://github.com/huhailinguist/ArguGPT) - 
 - [CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
 - [Meroser/IPTV](https://github.com/Meroser/IPTV) - 深度定制属于自己的直播源列表，[完美EPG节目预告、高清台标]
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [JasonZhang156/awesome-mixed-sample-data-augmentation](https://github.com/JasonZhang156/awesome-mixed-sample-data-augmentation) - A collection of awesome things about mixed sample data augmentation
 - [bleedline/Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -989,7 +990,6 @@
 - [yichen0831/opencc-python](https://github.com/yichen0831/opencc-python) - OpenCC made with Python
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [xu-song/bert-as-language-model](https://github.com/xu-song/bert-as-language-model) - BERT as language model, fork from https://github.com/google-research/bert
 - [alipay/PainlessInferenceAcceleration](https://github.com/alipay/PainlessInferenceAcceleration) - Accelerate inference without tears
