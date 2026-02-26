@@ -331,7 +331,7 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications.
 - [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [valeman/awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
@@ -475,7 +475,7 @@
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [zjunlp/LightMem](https://github.com/zjunlp/LightMem) - [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [astack-tech/astack](https://github.com/astack-tech/astack) - 🤖 A composable framework for building AI applications.
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
@@ -963,7 +963,7 @@
 ## coding 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [pro1code1hack/Your-Journey-To-Fluent-Python](https://github.com/pro1code1hack/Your-Journey-To-Fluent-Python) - Your Journey To Fluent Python
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
@@ -1275,7 +1275,7 @@
 
 ## deno 
 
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing
@@ -2570,7 +2570,7 @@
 
 - [pheralb/code-blocks](https://github.com/pheralb/code-blocks) - 🍪 A set of UI components & utilities to show your code beautifully.
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -2736,7 +2736,6 @@
 
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The notes app that respects your privacy. Local-first. Open-source. No tracking.
-- [bitsky-tech/bridgic](https://github.com/bitsky-tech/bridgic) - Bridgic is the next-generation agent development framework for building intelligent systems.
 - [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -2852,6 +2851,9 @@
 
 ## others 
 
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
+- [sherdotsh/sher](https://github.com/sherdotsh/sher) - 
+- [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [yutori-ai/yutori-sdk-python](https://github.com/yutori-ai/yutori-sdk-python) - Official Python SDK for the Yutori API
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -2913,7 +2915,6 @@
 - [ZHO-ZHO-ZHO/BananaPod](https://github.com/ZHO-ZHO-ZHO/BananaPod) - 香蕉铺子：Nano Banana 创意板，无需提示词，内置我的创意玩法大全，轻松构建创意体系
 - [Ro-In-AI/open-blog](https://github.com/Ro-In-AI/open-blog) - Hello, Open-Blog.net! 做一个真正开放的世界级的内容创造与共享平台！
 - [ZHO-ZHO-ZHO/ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
-- [mengjian-github/ziliu](https://github.com/mengjian-github/ziliu) - 🌊 AI驱动的多平台内容发布工具 - 一次创作，智能适配公众号、知乎、掘金等   平台。让文字如流水般顺畅流向每个平台。
 - [joeseesun/img-cool](https://github.com/joeseesun/img-cool) - 
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
@@ -3518,7 +3519,7 @@
 
 ## postgresql 
 
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - The backend built for agentic development. AI-native Supabase alternative.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
