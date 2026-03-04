@@ -749,7 +749,6 @@
 - [deel-ai/puncc](https://github.com/deel-ai/puncc) - 👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.
 - [ml-stat-Sustech/TorchCP](https://github.com/ml-stat-Sustech/TorchCP) - A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
 - [henrikbostrom/crepes](https://github.com/henrikbostrom/crepes) - Python package for conformal prediction
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [austin-hua/Screenshot2Code](https://github.com/austin-hua/Screenshot2Code) - Code screenshots can be a nightmare to deal with, but clipboards aren't much better. Use this repo to convert your code screenshots to text.
@@ -1375,11 +1374,13 @@
 
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1521,10 +1522,9 @@
 ## TypeScript 
 
 - [liuxiaopai-ai/raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish) - Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎
-- [twwch/JadeAI](https://github.com/twwch/JadeAI) - An AI resume assistant that supports uploading PDFs and images for parsing, and then optimizes resumes through AI reading.
+- [twwch/JadeAI](https://github.com/twwch/JadeAI) - 🤖 AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment.
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [sherdotsh/sher](https://github.com/sherdotsh/sher) - 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [pheralb/code-blocks](https://github.com/pheralb/code-blocks) - 🍪 A set of UI components & utilities to show your code beautifully.
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
