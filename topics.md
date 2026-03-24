@@ -282,6 +282,7 @@
 - [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) - The LLM abstraction layer for modern AI agent applications.
 - [bitsky-tech/bridgic](https://github.com/bitsky-tech/bridgic) - Bridgic is the next-generation agent development framework for building intelligent systems.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
+- [AgentR1/Agent-R1](https://github.com/AgentR1/Agent-R1) - Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [ByteDance-Seed/WideSearch](https://github.com/ByteDance-Seed/WideSearch) - WideSearch: Benchmarking Agentic Broad Info-Seeking
@@ -2146,6 +2147,7 @@
 - [bitsky-tech/bridgic](https://github.com/bitsky-tech/bridgic) - Bridgic is the next-generation agent development framework for building intelligent systems.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
+- [AgentR1/Agent-R1](https://github.com/AgentR1/Agent-R1) - Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
 - [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultr
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
@@ -2922,7 +2924,6 @@
 - [RndmVariableQ/AlphaAgent](https://github.com/RndmVariableQ/AlphaAgent) - AlphaAgent is an autonomous alpha mining framework.
 - [liuup/overleaf_vertical](https://github.com/liuup/overleaf_vertical) - 🧩 Force Overleaf editor and preview to display top-bottom instead of side-by-side. 强制Overleaf编辑区和预览区纵向显示插件
 - [mahtabsyed/21-Agentic-Patterns](https://github.com/mahtabsyed/21-Agentic-Patterns) - 
-- [AgentR1/Agent-R1](https://github.com/AgentR1/Agent-R1) - Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
 - [FoundationAgents/InteractComp](https://github.com/FoundationAgents/InteractComp) - 
 - [RethinkFun/trian_ppo](https://github.com/RethinkFun/trian_ppo) - 
 - [Nijikadesu/breakdown-minimind](https://github.com/Nijikadesu/breakdown-minimind) - Use interactive notebook to break down MiniMind code and learn from scratch.
