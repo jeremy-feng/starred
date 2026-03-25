@@ -694,6 +694,7 @@
 
 ## Python 
 
+- [acodercat/cave-agent](https://github.com/acodercat/cave-agent) - Stateful runtime management for LLM agents—inject, manipulate, and retrieve Python objects across turns.
 - [EodHistoricalData/EODHD-MCP-Server](https://github.com/EodHistoricalData/EODHD-MCP-Server) - EODHD MCP Server for AI assistants
 - [tmwgsicp/wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、 RSS 订阅API服务，支持IP代理池反风控。
 - [rookie-ricardo/erduo-skills](https://github.com/rookie-ricardo/erduo-skills) - 
@@ -1528,7 +1529,7 @@
 ## TypeScript 
 
 - [shawnxie94/lumina](https://github.com/shawnxie94/lumina) - An information management workspace.（信息管理工作台）
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [liuxiaopai-ai/raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish) - Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎
 - [twwch/JadeAI](https://github.com/twwch/JadeAI) - AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment.
