@@ -596,7 +596,6 @@
 - [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) - Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - 
 - [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息
 - [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators
@@ -743,7 +742,7 @@
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -797,7 +796,7 @@
 - [kjkoeller/glyphx](https://github.com/kjkoeller/glyphx) - A next-gen Python plotting library with SVG-first rendering, interactivity, themes, and clean defaults — better than matplotlib.pyplot
 - [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -1529,7 +1528,7 @@
 ## TypeScript 
 
 - [shawnxie94/lumina](https://github.com/shawnxie94/lumina) - An information management workspace.（信息管理工作台）
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [liuxiaopai-ai/raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish) - Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎
 - [twwch/JadeAI](https://github.com/twwch/JadeAI) - AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment.
