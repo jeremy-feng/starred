@@ -1133,7 +1133,6 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [OpenLMLab/Sniffer](https://github.com/OpenLMLab/Sniffer) - 
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
-- [AzatAI/cs_books](https://github.com/AzatAI/cs_books) - Computer science books Recommended by AzatAI. (Education ONLY)
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
@@ -1589,7 +1588,7 @@
 - [badtzx0/badtz-ui](https://github.com/badtzx0/badtz-ui) - 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source autonomous agent powered by Grok.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [marcoding2025/shadcn-tailwind-design-system](https://github.com/marcoding2025/shadcn-tailwind-design-system) - A modern component library built with shadcn/ui, developed using React + TypeScript + Tailwind CSS + Storybook.
@@ -1648,7 +1647,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - 😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -1666,7 +1665,7 @@
 - [antfu/shiki-stream](https://github.com/antfu/shiki-stream) - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
 - [we0-dev/we0](https://github.com/we0-dev/we0) - we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable
 - [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology.
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
+- [pagescms/pagescms](https://github.com/pagescms/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
