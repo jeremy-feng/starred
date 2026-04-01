@@ -693,6 +693,7 @@
 
 ## Python 
 
+- [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) - 
 - [xiaohuailabs/xiaohu-wechat-format](https://github.com/xiaohuailabs/xiaohu-wechat-format) - Claude Code 公众号一键排版+发布技能 | Markdown → 微信兼容 HTML → 推送草稿箱 | 30 套主题 + 可视化画廊
 - [deusyu/translate-book](https://github.com/deusyu/translate-book) - Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents
 - [acodercat/cave-agent](https://github.com/acodercat/cave-agent) - Stateful runtime management for LLM agents—inject, manipulate, and retrieve Python objects across turns.
@@ -1154,7 +1155,7 @@
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [andy-landy/traceback_with_variables](https://github.com/andy-landy/traceback_with_variables) - Adds variables to python traceback. Simple, lightweight, controllable. Customize formats and colors. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - An open source extension that connects AI agents to computational notebooks in JupyterLab.
 - [fralau/mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin) - A Mermaid graphs plugin for mkdocs
 - [pytorch/audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [teddykoker/torchsort](https://github.com/teddykoker/torchsort) - Fast, differentiable sorting and ranking in PyTorch
@@ -1307,7 +1308,7 @@
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [zhuozhiyongde/Match-Bracket-And-Pangu-Format](https://github.com/zhuozhiyongde/Match-Bracket-And-Pangu-Format) - A little tool to check markdown file's bracket match and use `Pangu.js` to add space, which makes your markdown more elegently.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [vinta/pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
 - [taseikyo/PyQt5-Apps](https://github.com/taseikyo/PyQt5-Apps) - :paperclip:Some useful apps based on PyQt5. | 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
