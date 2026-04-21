@@ -301,7 +301,7 @@
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 - [koaning/drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Python notebooks.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
+- [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - ✦ Gemini ➜ OpenAI API proxy. Serverless!
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [axiaoxin-com/wx.md](https://github.com/axiaoxin-com/wx.md) - 人言兑.md ｜Markdown 转微信公众号文章-免费图文排版神器
@@ -579,7 +579,6 @@
 
 ## Others 
 
-- [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) - AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.
 - [waylandzhang/ai-quant-book](https://github.com/waylandzhang/ai-quant-book) - 《AI Quant Trading - From Zero to One》
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -694,6 +693,7 @@
 
 ## Python 
 
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 - [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
 - [ginlix-ai/LangAlpha](https://github.com/ginlix-ai/LangAlpha) - Claude Code for Finance
 - [MiroMindAI/MiroEval](https://github.com/MiroMindAI/MiroEval) - MiroEval: A benchmark and evaluation framework for deep research agents — 100 tasks (70 text, 30 multimodal) assessed across synthesis quality, factuality, and research process. 13 systems evaluated.
@@ -764,7 +764,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [austin-hua/Screenshot2Code](https://github.com/austin-hua/Screenshot2Code) - Code screenshots can be a nightmare to deal with, but clipboards aren't much better. Use this repo to convert your code screenshots to text.
 - [ByteDance-Seed/WideSearch](https://github.com/ByteDance-Seed/WideSearch) - WideSearch: Benchmarking Agentic Broad Info-Seeking
-- [QuantML-C/pyrust-bt](https://github.com/QuantML-C/pyrust-bt) - Hybrid Python + Rust backtesting framework
+- [QuantMLResearch/pyrust-bt](https://github.com/QuantMLResearch/pyrust-bt) - Hybrid Python + Rust backtesting framework
 - [cvxpy/cvxpylayers](https://github.com/cvxpy/cvxpylayers) - Differentiable convex optimization layers
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [mharrish7/Explanatory_Video_Generator_AI](https://github.com/mharrish7/Explanatory_Video_Generator_AI) - 
@@ -1011,7 +1011,7 @@
 - [baoguangsheng/fast-detect-gpt](https://github.com/baoguangsheng/fast-detect-gpt) - Code base for ICLR 2024 "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature".
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
-- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -1391,7 +1391,7 @@
 - [limecloud/lime](https://github.com/limecloud/lime) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1536,6 +1536,7 @@
 
 ## TypeScript 
 
+- [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [saffron-health/libretto](https://github.com/saffron-health/libretto) - The AI toolkit for building and maintaining browser automations
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
