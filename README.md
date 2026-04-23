@@ -740,7 +740,6 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [RndmVariableQ/AlphaAgent](https://github.com/RndmVariableQ/AlphaAgent) - AlphaAgent is an autonomous alpha mining framework.
 - [bitsky-tech/bridgic](https://github.com/bitsky-tech/bridgic) - Bridgic is the next-generation agent development framework for building intelligent systems.
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 - [AgentR1/Agent-R1](https://github.com/AgentR1/Agent-R1) - Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [FoundationAgents/InteractComp](https://github.com/FoundationAgents/InteractComp) - 
@@ -1011,7 +1010,7 @@
 - [baoguangsheng/fast-detect-gpt](https://github.com/baoguangsheng/fast-detect-gpt) - Code base for ICLR 2024 "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature".
 - [pypy/pypy](https://github.com/pypy/pypy) - PyPy is a very fast and compliant implementation of the Python language.
 - [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -1573,6 +1572,7 @@
 - [ApeCodeAI/vmarker](https://github.com/ApeCodeAI/vmarker) - vmarker (Auto Chapter Bar or `acb` in CLI) is an open-source Python tool that converts SRT subtitle files into transparent video chapter progress bars with alpha channel. vmarker（简称 `acb`）是一个开源的 Pytho
 - [davialabs/davia](https://github.com/davialabs/davia) - Interactive, editable docs designed for coding agents
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 - [htmldocs-js/htmldocs](https://github.com/htmldocs-js/htmldocs) - The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
