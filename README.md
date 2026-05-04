@@ -830,7 +830,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. Available in TypeScript!
 - [toumorokoshi/deepmerge](https://github.com/toumorokoshi/deepmerge) - A deep merging tool for Python core data structures
 - [qlustered/deepdiff](https://github.com/qlustered/deepdiff) - DeepDiff: Deep Difference and search of any Python object/data. DeepHash: Hash of any object based on its contents. Delta: Use deltas to reconstruct objects by adding deltas together.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1186,7 +1186,7 @@
 - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [vinusankars/Reliability-of-AI-text-detectors](https://github.com/vinusankars/Reliability-of-AI-text-detectors) - Can AI-Generated Text be Reliably Detected?
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [eric-mitchell/detect-gpt](https://github.com/eric-mitchell/detect-gpt) - DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature
 - [DaDaMrX/ReaLiSe](https://github.com/DaDaMrX/ReaLiSe) - A Multi-modal Model Chinese Spell Checker Released on ACL2021.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -1757,7 +1757,7 @@
 - [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
 - [weijunext/smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - Generate the Excel formulas you need in seconds using ChatGPT.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
+- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - Universal Component Intellisense for Any Frameworks
