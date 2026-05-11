@@ -1607,6 +1607,7 @@
 
 ## finance 
 
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for the Longbridge trading platform with real-time market data, portfolio, and trading...
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
