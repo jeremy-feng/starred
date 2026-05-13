@@ -696,6 +696,7 @@
 
 ## Python 
 
+- [huggingface/finepdfs](https://github.com/huggingface/finepdfs) - Codebase for FinePDFs
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [EodHistoricalData/EODHD-APIs-Python-Financial-Library](https://github.com/EodHistoricalData/EODHD-APIs-Python-Financial-Library) - 
@@ -750,7 +751,7 @@
 - [RndmVariableQ/AlphaAgent](https://github.com/RndmVariableQ/AlphaAgent) - AlphaAgent is an autonomous alpha mining framework.
 - [bitsky-tech/bridgic](https://github.com/bitsky-tech/bridgic) - Bridgic is the next-generation agent development framework for building intelligent systems.
 - [AgentR1/Agent-R1](https://github.com/AgentR1/Agent-R1) - Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [FoundationAgents/InteractComp](https://github.com/FoundationAgents/InteractComp) - 
 - [RethinkFun/trian_ppo](https://github.com/RethinkFun/trian_ppo) - 
 - [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultr
@@ -1724,7 +1725,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [afx-team/petercat](https://github.com/afx-team/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TypeScript and TensorFlow.js.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
