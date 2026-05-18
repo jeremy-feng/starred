@@ -665,7 +665,6 @@
 - [itcharge/Mac-Tips](https://github.com/itcharge/Mac-Tips) - macOS 系统的使用技巧介绍、常用软件推荐、效率工具推荐。
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [HogaStack/awesome-feffery-dash](https://github.com/HogaStack/awesome-feffery-dash) - 😎The Way to Efficient Application Development with Python+Dash. Python+Dash高效应用开发之道
-- [cgao96/leetcode_101](https://github.com/cgao96/leetcode_101) - LeetCode 101：力扣刷题指南
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [mlu-explain/mlu-explain.github.io](https://github.com/mlu-explain/mlu-explain.github.io) - 
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
@@ -1785,7 +1784,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) - PasteBin based on Cloudflare
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [lobehub/lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
 - [nextai-translator/bob-plugin-openai-polisher](https://github.com/nextai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0
@@ -1798,7 +1797,7 @@
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
