@@ -2994,6 +2994,7 @@
 
 ## others 
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse) - 
 - [huggingface/finepdfs](https://github.com/huggingface/finepdfs) - Codebase for FinePDFs
