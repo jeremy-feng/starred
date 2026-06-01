@@ -591,7 +591,6 @@
 - [ZHO-ZHO-ZHO/ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
 - [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) - Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
@@ -777,6 +776,7 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [mharrish7/Explanatory_Video_Generator_AI](https://github.com/mharrish7/Explanatory_Video_Generator_AI) - 
 - [kieranjwood/trading-momentum-transformer](https://github.com/kieranjwood/trading-momentum-transformer) - This code accompanies the the paper Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (https://arxiv.org/pdf/2112.08534.pdf).
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [agno-agi/phidata](https://github.com/agno-agi/phidata) - 
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
@@ -1581,7 +1581,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk) - 
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 你的第一支团队，何必是人类！
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
 - [Peiiii/gitary](https://github.com/Peiiii/gitary) - Notion-like editing + Excalidraw & Draw.io drawing for your Git repositorie
 - [ApeCodeAI/vmarker](https://github.com/ApeCodeAI/vmarker) - vmarker (Auto Chapter Bar or `acb` in CLI) is an open-source Python tool that converts SRT subtitle files into transparent video chapter progress bars with alpha channel. vmarker（简称 `acb`）是一个开源的 Pytho
 - [davialabs/davia](https://github.com/davialabs/davia) - Interactive, editable docs designed for coding agents
