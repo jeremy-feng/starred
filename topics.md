@@ -1314,6 +1314,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [kieranjwood/trading-momentum-transformer](https://github.com/kieranjwood/trading-momentum-transformer) - This code accompanies the the paper Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (https://arxiv.org/pdf/2112.08534.pdf).
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [shenxiangzhuang/bleuscore](https://github.com/shenxiangzhuang/bleuscore) - BLEU Score in Rust
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
@@ -2383,6 +2384,7 @@
 - [henrikbostrom/crepes](https://github.com/henrikbostrom/crepes) - Python package for conformal prediction
 - [kieranjwood/trading-momentum-transformer](https://github.com/kieranjwood/trading-momentum-transformer) - This code accompanies the the paper Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (https://arxiv.org/pdf/2112.08534.pdf).
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models) - Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -2703,6 +2705,7 @@
 
 ## neural-network 
 
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon) - A toolkit for time series  machine learning and deep learning
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
@@ -2847,6 +2850,7 @@
 
 ## numpy 
 
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [capitalone/datacompy](https://github.com/capitalone/datacompy) - Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
 - [pydata/bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C
@@ -3120,7 +3124,6 @@
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [ItusiAI/Open-Aiartools](https://github.com/ItusiAI/Open-Aiartools) - AI 图像编辑 Web 应用，使用 **FLUX.1 Kontext [pro]** 前沿模型提供强大的图像编辑功能，支持Stripe支付，注册登录，积分系统等，代码100%开源。
@@ -3791,6 +3794,7 @@
 - [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
