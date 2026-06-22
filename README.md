@@ -234,6 +234,7 @@
 - [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 - [holtzy/The-Python-Graph-Gallery](https://github.com/holtzy/The-Python-Graph-Gallery) - A website displaying hundreds of charts made with Python
 - [EmilHvitfeldt/feature-engineering-az](https://github.com/EmilHvitfeldt/feature-engineering-az) - Source for book "Feature Engineering A-Z"
+- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings.
 - [martin-martin/calculator](https://github.com/martin-martin/calculator) - 
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -522,7 +523,7 @@
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [empathy87/storytelling-with-data](https://github.com/empathy87/storytelling-with-data) - Plots from the book "Storytelling with data" implementation using Python and matplotlib
-- [PyPortfolio/PyPortfolioOpt](https://github.com/PyPortfolio/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
+- [PyPortfolio/PyPortfolioOpt](https://github.com/PyPortfolio/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 
 ## Kotlin 
 
@@ -1536,7 +1537,6 @@
 ## TeX 
 
 - [fky2015/resume-ng](https://github.com/fky2015/resume-ng) - A LaTeX resume template designed for optimal information density and aesthetic appeal.
-- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [rstudio/cheatsheets](https://github.com/rstudio/cheatsheets) - Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
@@ -1722,6 +1722,7 @@
 - [302ai/302_podcast_generator](https://github.com/302ai/302_podcast_generator) - 🎙️🤖 302 AI Podcast Generator! 🚀✨
 - [ntegrals/10x](https://github.com/ntegrals/10x) - ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
@@ -1893,7 +1894,6 @@
 
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The local-first, open source notes app built with privacy in mind
 - [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [Cteros/eno-music](https://github.com/Cteros/eno-music) - 
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [SmallTeddyGames/e-card](https://github.com/SmallTeddyGames/e-card) - E-Card mini-game imitating "Gambling Apocalypse"
