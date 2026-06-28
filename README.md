@@ -153,7 +153,7 @@
 ## Cuda 
 
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
-- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient BLAS kernel library on GPU
 
 ## Cython 
 
