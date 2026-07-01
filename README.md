@@ -143,7 +143,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
 ## CoffeeScript 
@@ -1432,7 +1432,7 @@
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
-- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
