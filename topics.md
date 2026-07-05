@@ -1180,7 +1180,7 @@
 
 ## crawler 
 
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为所有人准备的AI搞钱团队，帮你把经验和方法跑成一门生意。
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为 OPC/中小微企业老板们量身打造的"AI 搞钱搭子"
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
