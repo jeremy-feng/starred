@@ -3061,6 +3061,7 @@
 
 ## others 
 
+- [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [ApodexAI/AgentHarness](https://github.com/ApodexAI/AgentHarness) - Evaluation harness for Apodex-1.0 on public deep-research benchmarks.
