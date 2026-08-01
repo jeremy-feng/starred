@@ -736,7 +736,7 @@
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
+- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows, macOS, and Excel on the web.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -2735,7 +2735,7 @@
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.
 - [sergioburdisso/pyss3](https://github.com/sergioburdisso/pyss3) - A Python library for Interpretable Machine Learning in Text Classification using the SS3 model, with easy-to-use visualization tools for Explainable AI :octocat:
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
@@ -2836,7 +2836,7 @@
 - [sergioburdisso/pyss3](https://github.com/sergioburdisso/pyss3) - A Python library for Interpretable Machine Learning in Text Classification using the SS3 model, with easy-to-use visualization tools for Explainable AI :octocat:
 - [lonePatient/TorchBlocks](https://github.com/lonePatient/TorchBlocks) - A PyTorch-based toolkit for natural language processing
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) - A curated list of resources for Chinese NLP 中文自然语言处理相关资料
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -2954,6 +2954,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
+- [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -3059,6 +3060,7 @@
 
 ## others 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -3957,7 +3959,7 @@
 - [deephub-ai/torch-handle](https://github.com/deephub-ai/torch-handle) - TorchHandle makes your PyTorch development more efficient and make you use PyTorch more comfortable
 - [proplot-dev/proplot](https://github.com/proplot-dev/proplot) - 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 - [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
-- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
+- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows, macOS, and Excel on the web.
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -4108,7 +4110,7 @@
 - [nblock/pdb-cheatsheet](https://github.com/nblock/pdb-cheatsheet) - A cheatsheet for the Python Debugger (pdb)
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
-- [vinta/pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
+- [vinta/pangu.py](https://github.com/vinta/pangu.py) - Opinionated paranoid text spacing in Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
