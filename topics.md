@@ -3087,7 +3087,7 @@
 - [hyperbrowserai/hyperbrowser-app-examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples) - This repo contains fully functional Hyperbrowser powered web apps
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [MiroMindAI/MiroEval](https://github.com/MiroMindAI/MiroEval) - MiroEval: A benchmark and evaluation framework for deep research agents — 100 tasks (70 text, 30 multimodal) assessed across synthesis quality, factuality, and research process. 13 systems evaluated.
 - [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) - 
 - [xiaohuailabs/xiaohu-wechat-format](https://github.com/xiaohuailabs/xiaohu-wechat-format) - Claude Code 公众号一键排版+发布技能 | Markdown → 微信兼容 HTML → 推送草稿箱 | 30 套主题 + 可视化画廊
@@ -3138,7 +3138,7 @@
 - [MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN) - LLMs-from-scratch项目中文翻译
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [bbruceyuan/Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN) - 中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型
-- [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
+- [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal
 - [bbruceyuan/AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code) - LLM大模型（重点）以及搜广推等 AI 算法中手写的面试题，（非 LeetCode），比如 Self-Attention, AUC等，一般比 LeetCode 更考察一个人的综合能力，又更贴近业务和基础知识一点
 - [geekjourneyx/awesome-developer-go-sail](https://github.com/geekjourneyx/awesome-developer-go-sail) - 一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。
 - [neovateai/neovate-code](https://github.com/neovateai/neovate-code) - Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs, review code, add tests, and more. You can run it in interactive mode or headless mode.
