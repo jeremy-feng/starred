@@ -773,7 +773,7 @@
 - [deel-ai/puncc](https://github.com/deel-ai/puncc) - 👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.
 - [ml-stat-Sustech/TorchCP](https://github.com/ml-stat-Sustech/TorchCP) - A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
 - [henrikbostrom/crepes](https://github.com/henrikbostrom/crepes) - Python package for conformal prediction
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Control Blender 3D with any LLM of your choice
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [austin-hua/Screenshot2Code](https://github.com/austin-hua/Screenshot2Code) - Code screenshots can be a nightmare to deal with, but clipboards aren't much better. Use this repo to convert your code screenshots to text.
 - [ByteDance-Seed/WideSearch](https://github.com/ByteDance-Seed/WideSearch) - WideSearch: Benchmarking Agentic Broad Info-Seeking
@@ -1557,7 +1557,8 @@
 
 ## TypeScript 
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
+- [extend-hq/ui](https://github.com/extend-hq/ui) - 
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. https://qm.ycombinator.com
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse) - 
 - [shawnxie94/infinitum](https://github.com/shawnxie94/infinitum) - 基于RSS的资讯聚合工作台
@@ -1769,7 +1770,7 @@
 - [jupyter-server/jupyter-resource-usage](https://github.com/jupyter-server/jupyter-resource-usage) - Jupyter Notebook Extension for monitoring your own Resource Usage
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [beishanyufu/ime-and-cursor](https://github.com/beishanyufu/ime-and-cursor) - 一个VSCode插件：将光标变成中英文输入状态的指示器
