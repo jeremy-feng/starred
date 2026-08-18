@@ -316,6 +316,7 @@
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [axiaoxin-com/wx.md](https://github.com/axiaoxin-com/wx.md) - 人言兑.md ｜Markdown 转微信公众号文章-免费图文排版神器
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [cokice/googleocr-app](https://github.com/cokice/googleocr-app) - 
 - [InverseUI/InverseUI-Recorder](https://github.com/InverseUI/InverseUI-Recorder) - Intent-based UI automation that runs locally. Record real workflows, generate reusable scripts, and safely use local credentials and files.
 - [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
@@ -579,7 +580,6 @@
 ## Objective-C 
 
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
 ## Others 
@@ -1223,7 +1223,7 @@
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE) - 中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard
 - [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
-- [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
+- [ZJU-OmniAI/Data-Copilot](https://github.com/ZJU-OmniAI/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
 - [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Machine learning metrics for distributed, scalable PyTorch applications.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
@@ -1369,6 +1369,7 @@
 - [tkfy920/qstock](https://github.com/tkfy920/qstock) - qstock由“Python金融量化”公众号开发，试图打造成个人量化投研分析包，目前包括数据获取（data）、可视化(plot)、选股(stock)和量化回测（策略backtest）模块。 qstock将为用户提供简洁的数据接口和规整化后的金融市场数据。可视化模块为用户提供基于web的交互图形的简单接口；  选股模块提供了同花顺的选股数据和自定义选股，包括RPS、MM趋势、财务指标、资金流模型等；
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
 - [kyper-data/python-highcharts](https://github.com/kyper-data/python-highcharts) - A simple translation layer between Python and Javascript for Highcharts projects (highcharts, highmaps, and highstocks).
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
@@ -1557,6 +1558,7 @@
 
 ## TypeScript 
 
+- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook) - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
@@ -1658,6 +1660,7 @@
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
+- [CharlieLZ/flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template) - 生财有术特供，flux-kontext开源仓库，套壳模板
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -1880,7 +1883,6 @@
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [jaluik/blog](https://github.com/jaluik/blog) - 个人博客。
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 
