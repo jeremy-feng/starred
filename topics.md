@@ -275,6 +275,7 @@
 
 ## agent 
 
+- [LodyAI/Lody](https://github.com/LodyAI/Lody) - Share coding agents with your team on phone and desktop
 - [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) - 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, 
 - [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -3296,7 +3297,7 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-- [HarleyCoops/Math-To-Manim-lfs-archive](https://github.com/HarleyCoops/Math-To-Manim-lfs-archive) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
+- [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [zclzcl0223/TimeLinear](https://github.com/zclzcl0223/TimeLinear) - Official Code for "How Much Can Time-related Features Enhance Time Series Forecasting?"
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
