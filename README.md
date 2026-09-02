@@ -310,7 +310,6 @@
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
@@ -693,6 +692,7 @@
 
 ## Python 
 
+- [OpenDCAI/DataFlex](https://github.com/OpenDCAI/DataFlex) - Data-centric LLM training with dynamic sample selection, domain mixture optimization, and example reweighting inside the LLaMA-Factory training loop.
 - [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
 - [marin-community/marin](https://github.com/marin-community/marin) - Open-source framework for the research and development of foundation models.
 - [MigoXLab/dingo](https://github.com/MigoXLab/dingo) - Dingo: A Comprehensive AI Data, Model and Application Quality Evaluation Tool
@@ -1278,7 +1278,7 @@
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
 - [TommyZihao/zihaowordcloud](https://github.com/TommyZihao/zihaowordcloud) - simple tutorials and examples of wordcloud-python
-- [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
+- [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source, tool-augmented conversational language model from Fudan University
 - [ricequant/rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -1680,6 +1680,7 @@
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean's Open Source MVP Boilerplate Template for Production-Ready NextJS+Stripe+Supabase App.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [JiuRanYa/text-to-svg](https://github.com/JiuRanYa/text-to-svg) - Font to SVG Path Converter
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts) - UI Layouts isn’t just a library. It’s your complete front-end universe with components, effects, design tools, and ready-to-use blocks, everything you need to build modern interfaces, faster.
