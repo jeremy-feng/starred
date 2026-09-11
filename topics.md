@@ -343,7 +343,7 @@
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## agents 
 
@@ -500,7 +500,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
@@ -1637,7 +1637,7 @@
 - [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) - 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 
 ## education 
@@ -1999,7 +1999,7 @@
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -2050,7 +2050,7 @@
 
 ## homebrew 
 
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 
 ## html 
 
@@ -2160,7 +2160,7 @@
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -2607,7 +2607,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -3154,7 +3154,7 @@
 - [deusyu/translate-book](https://github.com/deusyu/translate-book) - Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
 - [EodHistoricalData/EODHD-MCP-Server](https://github.com/EodHistoricalData/EODHD-MCP-Server) - EODHD MCP Server for AI assistants
 - [rookie-ricardo/erduo-skills](https://github.com/rookie-ricardo/erduo-skills) - 
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [sherdotsh/sher](https://github.com/sherdotsh/sher) - 
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -4465,7 +4465,7 @@
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [alishobeiri/thread-notebook](https://github.com/alishobeiri/thread-notebook) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ppresume/community](https://github.com/ppresume/community) - Discussions, feedbacks, roadmaps, community for PPResume.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
@@ -4647,7 +4647,7 @@
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -4770,7 +4770,7 @@
 - [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request.
 - [smughead/Loupe](https://github.com/smughead/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 
@@ -4781,7 +4781,7 @@
 - [smughead/Loupe](https://github.com/smughead/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 
 ## tailwind 
 
@@ -4971,7 +4971,7 @@
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TensorFlow.js.
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [SmallTeddyGames/e-card](https://github.com/SmallTeddyGames/e-card) - E-Card mini-game imitating "Gambling Apocalypse"
