@@ -695,7 +695,7 @@
 
 ## Python 
 
-- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
+- [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 - [OpenDCAI/DataFlex](https://github.com/OpenDCAI/DataFlex) - Data-centric LLM training with dynamic sample selection, domain mixture optimization, and example reweighting inside the LLaMA-Factory training loop.
 - [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.
 - [marin-community/marin](https://github.com/marin-community/marin) - Open-source framework for the research and development of foundation models.
@@ -1891,7 +1891,7 @@
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [jaluik/blog](https://github.com/jaluik/blog) - 个人博客。
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
