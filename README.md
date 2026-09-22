@@ -282,7 +282,6 @@
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, template
@@ -767,7 +766,7 @@
 - [FoundationAgents/InteractComp](https://github.com/FoundationAgents/InteractComp) - 
 - [RethinkFun/trian_ppo](https://github.com/RethinkFun/trian_ppo) - 
 - [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultr
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [changyeyu/LLM-RL-Visualized](https://github.com/changyeyu/LLM-RL-Visualized) - 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
@@ -1454,6 +1453,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
@@ -1784,6 +1784,7 @@
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [jupyter-server/jupyter-resource-usage](https://github.com/jupyter-server/jupyter-resource-usage) - Jupyter Notebook Extension for monitoring your own Resource Usage
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code) - 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
@@ -1796,7 +1797,6 @@
 - [weijunext/smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - Generate the Excel formulas you need in seconds using ChatGPT.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Docs for Agents & Humans.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - Universal Component Intellisense for Any Frameworks
 - [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
