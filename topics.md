@@ -3250,7 +3250,7 @@
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
 - [armitage-labs/creem-template](https://github.com/armitage-labs/creem-template) - Nextjs + Prisma template to integrate with Creem
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - Open sources book with Modern CUDA Learn Notes for Beginners, includes FP16/BF16, FP8, HGEMM, FlashAttention, CuTe, etc.
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - Open-source book with Modern CUDA Learn Notes for Beginners, includes FP16/BF16, FP8, HGEMM, FlashAttention, CuTe, etc.
 - [panyanyany/Twocast](https://github.com/panyanyany/Twocast) - AI Podcast Generator for bilingual episodes, Multi Languages, Alternative to NotebookLLM；真人对话AI播客生成器，多语言，多音色
 - [kaminono/PromptBox](https://github.com/kaminono/PromptBox) - Your AI Prompt Workspace All Local
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
