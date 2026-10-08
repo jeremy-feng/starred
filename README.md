@@ -91,7 +91,6 @@
 
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
-- [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
 - [bottler/iisignature](https://github.com/bottler/iisignature) - Iterated integral signature calculations
 - [Quantactix/PTree](https://github.com/Quantactix/PTree) - R package for Panel Tree method and replication file for the paper "Growing the Efficient Frontier on Panel Trees", forthcoming in the Journal of Financial Economics.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -695,6 +694,7 @@
 
 ## Python 
 
+- [datologyai/zephon](https://github.com/datologyai/zephon) - Fast, flexible, elastically deterministic data loading for foundation model training
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [4thd1m/asitpofborscht](https://github.com/4thd1m/asitpofborscht) - a whirlwind tour to deep learning and deep learning systems
 - [ifm-ai/xllm](https://github.com/ifm-ai/xllm) - Light-weight infrastructure for express LLM pre-training
@@ -784,6 +784,7 @@
 - [deel-ai/puncc](https://github.com/deel-ai/puncc) - 👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.
 - [ml-stat-Sustech/TorchCP](https://github.com/ml-stat-Sustech/TorchCP) - A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
 - [henrikbostrom/crepes](https://github.com/henrikbostrom/crepes) - Python package for conformal prediction
+- [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [austin-hua/Screenshot2Code](https://github.com/austin-hua/Screenshot2Code) - Code screenshots can be a nightmare to deal with, but clipboards aren't much better. Use this repo to convert your code screenshots to text.
