@@ -1295,7 +1295,7 @@
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-- [The-FinAI/trials](https://github.com/The-FinAI/trials) - Our codebase trials provide an implementation of the Select and Trade paper, which proposes a new paradigm for pair trading using hierarchical reinforcement learning. It includes the code for the prop
+- [The-FinAI/trials](https://github.com/The-FinAI/trials) - trials: Select and Trade — unified pair trading with hierarchical reinforcement learning (arXiv:2301.10724)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
@@ -1545,7 +1545,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 
 ## TeX 
