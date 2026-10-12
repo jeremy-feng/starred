@@ -1568,6 +1568,7 @@
 
 ## TypeScript 
 
+- [Peaceful-World-X/ArXivHub](https://github.com/Peaceful-World-X/ArXivHub) - ⭐ arXiv 一篇论文，跳转全部入口~
 - [thinkany-ai/douchat](https://github.com/thinkany-ai/douchat) - Bring your models and agents together in one workspace.
 - [botiverse/raft-source](https://github.com/botiverse/raft-source) - Raft source-available release mirror. One snapshot commit per release; pull requests are not accepted.
 - [tellahq/opensession](https://github.com/tellahq/opensession) - 
