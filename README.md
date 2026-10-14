@@ -292,12 +292,13 @@
 
 ## JavaScript 
 
+- [Peaceful-World-X/ArXivHub](https://github.com/Peaceful-World-X/ArXivHub) - ⭐ arXiv 一篇论文，跳转全部入口~
 - [danilo-znamerovszkij/draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font) - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [joeseesun/qmreader](https://github.com/joeseesun/qmreader) - 中文 RSS 阅读工作台：订阅源、双语翻译、乔木风格改写与公开阅读资产 | Chinese RSS workbench for feeds, translation, rewrites, and public reading assets.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rookie-ricardo/erduo-skills](https://github.com/rookie-ricardo/erduo-skills) - 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
 - [xiaobox/mdeditor](https://github.com/xiaobox/mdeditor) - Modern MD Editor 是一款面向创作者与内容团队的「高颜值 Markdown 编辑器 + 社交平台发布器」。它以极致的界面与交互为基础，提供所见即所得的实时预览与多端视口切换，并通过一键复制将 Markdown 转为适配微信公众号/社交平台的高保真富文本（自动内联样式、字体/行高/字距与主题化适配），让创作到发布的最后一步变得优雅、高效、可控。
 - [liuup/overleaf_vertical](https://github.com/liuup/overleaf_vertical) - 🧩 Force Overleaf editor and preview to display top-bottom instead of side-by-side. 强制Overleaf编辑区和预览区纵向显示插件
@@ -1537,7 +1538,7 @@
 
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request.
-- [smughead/Loupe](https://github.com/smughead/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
+- [britchie4/Loupe](https://github.com/britchie4/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
 - [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext) - Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
@@ -1568,7 +1569,6 @@
 
 ## TypeScript 
 
-- [Peaceful-World-X/ArXivHub](https://github.com/Peaceful-World-X/ArXivHub) - ⭐ arXiv 一篇论文，跳转全部入口~
 - [thinkany-ai/douchat](https://github.com/thinkany-ai/douchat) - Bring your models and agents together in one workspace.
 - [botiverse/raft-source](https://github.com/botiverse/raft-source) - Raft source-available release mirror. One snapshot commit per release; pull requests are not accepted.
 - [tellahq/opensession](https://github.com/tellahq/opensession) - 
