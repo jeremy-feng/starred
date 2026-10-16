@@ -339,6 +339,7 @@
 ## agent-skills 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
@@ -408,7 +409,7 @@
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -583,6 +584,7 @@
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [EodHistoricalData/eodhd-claude-skills](https://github.com/EodHistoricalData/eodhd-claude-skills) - Claude Code plugin for EODHD financial data — 150k+ tickers, 70+ exchanges, OAuth MCP server with 80 tools, 7 workflow skills, financial-analyst agent, 5 slash commands. MIT.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
@@ -610,7 +612,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 - [ntegrals/10x](https://github.com/ntegrals/10x) - ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
@@ -1062,6 +1064,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [EodHistoricalData/eodhd-claude-skills](https://github.com/EodHistoricalData/eodhd-claude-skills) - Claude Code plugin for EODHD financial data — 150k+ tickers, 70+ exchanges, OAuth MCP server with 80 tools, 7 workflow skills, financial-analyst agent, 5 slash commands. MIT.
 - [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request.
 - [cashew-labs/libretto](https://github.com/cashew-labs/libretto) - The AI toolkit for building reliable browser automations
@@ -1069,6 +1072,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) - MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
@@ -1174,7 +1178,7 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1684,6 +1688,7 @@
 ## electron 
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [SmallTeddyGames/e-card](https://github.com/SmallTeddyGames/e-card) - E-Card mini-game imitating "Gambling Apocalypse"
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -2382,6 +2387,7 @@
 - [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [zjunlp/LightMem](https://github.com/zjunlp/LightMem) - [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -2401,7 +2407,7 @@
 - [LSTM-Kirigaya/slidev-mcp](https://github.com/LSTM-Kirigaya/slidev-mcp) - mcp server for slidev to make web ppt quickly and elegantly
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [astack-tech/astack](https://github.com/astack-tech/astack) - 🤖 A composable framework for building AI applications.
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
@@ -2433,7 +2439,7 @@
 - [m0wer/rssfilter](https://github.com/m0wer/rssfilter) - Filter your current RSS feeds with AI customized recommendations.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
@@ -2510,7 +2516,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [itcharge/Mac-Tips](https://github.com/itcharge/Mac-Tips) - macOS 系统的使用技巧介绍、常用软件推荐、效率工具推荐。
@@ -2631,7 +2637,7 @@
 - [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [britchie4/Loupe](https://github.com/britchie4/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
@@ -2647,7 +2653,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, distraction-free writing app to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
 - [itcharge/Mac-Tips](https://github.com/itcharge/Mac-Tips) - macOS 系统的使用技巧介绍、常用软件推荐、效率工具推荐。
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 
@@ -2697,7 +2703,7 @@
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin) - Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, distraction-free writing app to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
 - [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
 - [didix21/mdutils](https://github.com/didix21/mdutils) - Python package contains a set of basic tools that can help to create a markdown file.
 - [annProg/PanBook](https://github.com/annProg/PanBook) - Pandoc LaTeX，Epub模板，用于生成书籍，幻灯片(beamer)，简历，论文等（cv, thesis, ebook,beamer)
@@ -2730,6 +2736,7 @@
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -2740,7 +2747,7 @@
 - [context-space/context-space](https://github.com/context-space/context-space) - Ultimate Context Engineering Infrastructure, starting from MCPs and Integrations
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
@@ -2764,6 +2771,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -2874,6 +2882,7 @@
 
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates.
 - [pheralb/code-blocks](https://github.com/pheralb/code-blocks) - ✨ A set of UI components & utilities to show your code beautifully.
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
@@ -3179,7 +3188,6 @@
 - [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse) - 
 - [huggingface/finepdfs](https://github.com/huggingface/finepdfs) - Codebase for FinePDFs
 - [shawnxie94/infinitum](https://github.com/shawnxie94/infinitum) - 基于RSS的资讯聚合工作台
-- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Paper-inspired typography for elegant reading on screen. Good content deserves good paper.
 - [hyperbrowserai/hyperbrowser-app-examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples) - This repo contains fully functional Hyperbrowser powered web apps
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
@@ -3858,7 +3866,6 @@
 
 ## productivity 
 
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -4009,7 +4016,7 @@
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [ra1nty/DXcam](https://github.com/ra1nty/DXcam) - A Python high-performance screen capture library for Windows using Desktop Duplication API - Updated 2026
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
@@ -4719,7 +4726,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -4810,17 +4817,17 @@
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request.
 - [britchie4/Loupe](https://github.com/britchie4/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, distraction-free writing app to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
 
 ## swiftui 
 
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [vecartier/cc-beeper](https://github.com/vecartier/cc-beeper) - macOS desktop widget for Claude Code. See what Claude is doing, respond by voice, never miss a permission request.
 - [britchie4/Loupe](https://github.com/britchie4/Loupe) - macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 
@@ -5208,6 +5215,7 @@
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [portapps/vscode-portable](https://github.com/portapps/vscode-portable) - 🚀 Visual Studio Code portable for Windows
