@@ -209,7 +209,6 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [louisun/HeySpace](https://github.com/louisun/HeySpace) - 中英文混排自动加空格
 
@@ -417,6 +416,7 @@
 
 ## Jupyter Notebook 
 
+- [4thd1m/asitpofborscht](https://github.com/4thd1m/asitpofborscht) - a whirlwind tour to deep learning alchemy and deep learning systems
 - [duoan/TorchCode](https://github.com/duoan/TorchCode) - 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
 - [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [mahtabsyed/21-Agentic-Patterns](https://github.com/mahtabsyed/21-Agentic-Patterns) - 
@@ -701,7 +701,6 @@
 - [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 - [datologyai/zephon](https://github.com/datologyai/zephon) - Fast, flexible, elastically deterministic data loading for foundation model training
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [4thd1m/asitpofborscht](https://github.com/4thd1m/asitpofborscht) - a whirlwind tour to deep learning alchemy and deep learning systems
 - [ifm-ai/xllm](https://github.com/ifm-ai/xllm) - Light-weight infrastructure for express LLM pre-training
 - [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) - [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 - [OpenDCAI/DataFlex](https://github.com/OpenDCAI/DataFlex) - [NeurIPS 2026] DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models
@@ -1586,7 +1585,7 @@
 - [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook) - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [extend-hq/ui](https://github.com/extend-hq/ui) - 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for teams
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse) - 
 - [shawnxie94/infinitum](https://github.com/shawnxie94/infinitum) - 基于RSS的资讯聚合工作台
@@ -1890,6 +1889,7 @@
 - [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
