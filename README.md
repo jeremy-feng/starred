@@ -438,7 +438,7 @@
 - [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [ARahimiQuant/lead-lag-portfolios](https://github.com/ARahimiQuant/lead-lag-portfolios) - Portfolio Construction Utilizing Lead-Lag Relationship Discovery: Identify leaders and followers in financial markets to inform strategic portfolio construction.
-- [david-xinyuwei/david-share](https://github.com/david-xinyuwei/david-share) - 
+- [david-xinyuwei/david-share](https://github.com/david-xinyuwei/david-share) - AI Agents & Deep Learning: code, benchmarks and explainers. Building and operating agents on Microsoft Foundry and Azure; fine-tuning, inference optimization, precision and GPU benchmarks on NVIDIA an
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [Octoframes/jupyter_capture_output](https://github.com/Octoframes/jupyter_capture_output) - A cellmagic that captures celloutput such as text, image or video to files.
 - [ardha27/AI-Song-Cover-SOVITS](https://github.com/ardha27/AI-Song-Cover-SOVITS) - All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab
